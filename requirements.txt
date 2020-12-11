@@ -1,0 +1,6 @@
+joblib  # for model persistence
+matplotlib
+numpy
+pandas
+pandas-profiling  # for EDA
+scikit-learn
